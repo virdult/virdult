@@ -1,5 +1,5 @@
 # About Me:
-I'm working with Solar Car Team in Istanbul Technical University. I'm excelled at planner algorithms and also worked on lidar-perception.<br>Currently working on getting a deeper understanding in OOP as well as improving myself in other aspects of an autonomous robot.<br>
+I'm working with Solar Car Team in Istanbul Technical University. I'm excelled at planner algorithms and also worked on lidar-perception and localisation.<br>Currently working on a game project and improving myself in other aspects of an autonomous robot.<br>
 
 
 ## 🌐 Socials:
