@@ -6,7 +6,7 @@ alt="Umut Şener"
 
 <div align="center">
 
-### Autonomous Systems · Robotics · Database Systems · Estimation · Real-Time Software
+### Autonomous Systems · Robotics · Real-Time Software · Estimation · Database Systems
 
 <a href="https://www.linkedin.com/in/umut-%C5%9Fener-7b1846251/">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
